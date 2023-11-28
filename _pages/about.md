@@ -2,25 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: '''If you cannot explain it simply, you do not understand it well enough.'''
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>New Delhi, India.</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm an engineering senior at <a href="https://cic.du.ac.in">Cluster Innovation Centre,</a> <a href="https://www.du.ac.in">University of Delhi</a>, pursuing a Bachelors of Technology degree in IT and Math. I'm currently learning Deep Learning principles and its applications. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I've previously worked at large-scale coroporations such as <a href="https://www.tatadigital.in">Tata Digital</a>. Most of my professional work revolves around <b>Computational Data Science</b> and <b>Machine Learning</b>. However, my key interests are in the fields of <b>Natural Language Processing</b> and <b>Computer Vision</b>, specifically about their practical applications in Human-Computer Interaction (Eg. Voice Assistants such as Amazon Alexa). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I like to talk about soccer (I aspire to maintain the same level of consistency in my professional career as Lionel Messi does on the soccer field), films and new technologies. In my free time, I try to volunteer for education. I have previously volunteered at the <a href="https://robinhoodarmy.com">Robin Hood Army NGO</a>, teaching underprivileged children Math and Science.
